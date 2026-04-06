@@ -2,6 +2,8 @@
 
 #### An AI-powered personal mental health coach that can analyze your mental state, suggest coping strategies, and help you manage stress and anxiety for caitlin.
 
+maybe you need expert girl talk
+
 # The idea basically
 
 The main idea of this project is to be able to diagnose basic mental health conditions such as depression via the use of a binary search/AVL or whatever tree. 
