@@ -1,6 +1,6 @@
-# mindEase 
+# mindEasecaitlin
 
-#### An AI-powered personal mental health coach that can analyze your mental state, suggest coping strategies, and help you manage stress and anxiety
+#### An AI-powered personal mental health coach that can analyze your mental state, suggest coping strategies, and help you manage stress and anxiety for caitlin.
 
 # The idea basically
 
